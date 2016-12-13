@@ -1,4 +1,5 @@
 # oik-sites 
+![banner](https://raw.githubusercontent.com/bobbingwide/oik-sites/master/assets/oik-sites-banner-772x250.jpg)
 * Contributors: bobbingwide
 * Donate link: http://www.oik-plugins.com/oik/oik-donate/
 * Tags: shortcodes, smart, lazy
